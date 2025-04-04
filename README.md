@@ -1,11 +1,9 @@
 ### Hi there 👋, Hi! I'm Ania
-#### I am a self-motivated junior front-end developer passionate about creating and delivering user-friendly interfaces by writing clean, reusable and maintainable code.
+#### I'm a junior front-end dev who loves turning ideas into clean, smooth, and user-friendly interfaces
 
-With a keen eye for detail, I ensure that every line of code contributes to an intuitive and seamless user experience while maintaining high-quality standards. I enjoy bringing ideas to life and turning concepts into functional, visually appealing solutions.
-My goal is to deliver usability and responsiveness in every project I undertake. I am constantly eager to expand my skill set, stay updated on the last industry trends, and refine my problem-solving abilities.
+I love turning ideas into clean, responsive interfaces that feel great to use. With an eye for detail and a focus on usability, I make sure every line of code adds to the experience. I'm always exploring new tools, trends, and ways to level up my skills and solve problems smarter.
 
-
- My current technical stack includes Javascript, React and Typescript, but I am open to exploring and mastering other front-end technologies to further enhance my exprtise.
+Right now, I'm working with **JavaScript**, **React**, and **TypeScript**—but I'm always up for diving into new front-end tools and leveling up my skills.
 
 
 
