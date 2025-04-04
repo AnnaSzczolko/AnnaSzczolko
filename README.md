@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, Hi! I'm Ania
+#### I am a self-motivated junior front-end developer passionate about creating and delivering user-friendly interfaces by writing clean, reusable and maintainable code.
 
-<!--
-**AnnaSzczolko/AnnaSzczolko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a keen eye for detail, I ensure that every line of code contributes to an intuitive and seamless user experience while maintaining high-quality standards. I enjoy bringing ideas to life and turning concepts into functional, visually appealing solutions.
+My goal is to deliver usability and responsiveness in every project I undertake. I am constantly eager to expand my skill set, stay updated on the last industry trends, and refine my problem-solving abilities.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ My current technical stack includes Javascript, React and Typescript, but I am open to exploring and mastering other front-end technologies to further enhance my exprtise.
+
+
+
+
+
+
